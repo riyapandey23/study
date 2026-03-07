@@ -1,4 +1,4 @@
-name,age,height_cm,weight_kg,marks_math,marks_science,city
+Name,Age,Height,Weight,Maths,Science,City
 Alice,25,165,55,88,91,New York
 Bob,30,175,78,92,89,Los Angeles
 Charlie,35,180,85,79,84,Chicago
